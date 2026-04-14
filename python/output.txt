@@ -1,0 +1,19 @@
+Total Revenue: 11673965.059999999
+
+Top Categories:
+Category
+Set              6224216.51
+kurta            3290108.43
+Western Dress    1174127.04
+Top               743348.09
+Ethnic Dress       97349.90
+Name: Amount, dtype: float64
+
+Top States:
+ship-state
+MAHARASHTRA      1953839.97
+KARNATAKA        1472267.91
+UTTAR PRADESH    1058637.51
+TELANGANA         992221.15
+TAMIL NADU        870724.85
+Name: Amount, dtype: float64
